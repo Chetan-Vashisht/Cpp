@@ -1,0 +1,19 @@
+Intermediate Level
+Sum of Array Elements Using Pointer:
+Write a function that uses a pointer to compute and return the sum of all elements in an integer array. {PPPPP}}
+
+Reverse Array Using Pointers:
+Write a function to reverse the elements of an integer array using pointers (no array indexing allowed).
+
+Find Maximum Element Using Pointers:
+Implement a function that finds and returns the maximum element in an array using pointers.
+
+Advanced Level
+Dynamic Array Allocation:
+Write a program that asks the user for the size of an array, dynamically allocates memory for it, takes input for each element, then prints the elements using pointers.
+
+Pointer to Pointer:
+Demonstrate how a pointer to pointer works by creating an integer, a pointer to it, and a pointer to that pointer, then print the values and addresses at each level.
+
+Function Returning Pointer:
+Write a function that takes an array and its size and returns a pointer to the largest element in the array
