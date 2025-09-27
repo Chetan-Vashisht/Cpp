@@ -1,2 +1,2 @@
-This is my learning in c++ so far
-learnt for @h[iteshchoudhary](https://github.com/hiteshchoudhary) sir 
+This is my learning in c++ so far <br>
+Learnt from @[hiteshchoudhary](https://github.com/hiteshchoudhary) sir 
